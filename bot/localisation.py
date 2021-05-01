@@ -59,7 +59,7 @@ class Localisation:
     
     HELP_MESSAGE = get_config(
         "STRINGS_HELP_MESSAGE",
-        "If You Want to Use this Bot.\nDM me Here - @MasterAyushAryan_Bot . \nVideo Compressor Bot is Here .\n\n1. Send your telegram big video file \n2. Reply the file - /compress And Persentage \nEg:- <code>/compress 50</code> \n\nSupport Group :@Dx_Support"
+        "If You Want to Use this Bot.\nDM me Here - @MasterAyushAryan_Bot . \nVideo Compressor Bot is Here .\n\n1. Send your telegram big video file \n2. Reply the file - /compress And Persentage \nEg:- <code>/compress 50</code> \n\nSupport Group :@Dx_Support (closed)"
     )
     WRONG_MESSAGE = get_config(
         "STRINGS_WRONG_MESSAGE",
